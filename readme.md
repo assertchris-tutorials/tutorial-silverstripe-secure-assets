@@ -3,8 +3,8 @@
 To get started:
 
 ```sh
-$ git clone git@github.com:assertchris-tutorials/tutorial-silvverstripe-secure-assets.git
-$ cd tutorial-silvverstripe-secure-assets
+$ git clone git@github.com:assertchris-tutorials/tutorial-silverstripe-secure-assets.git
+$ cd tutorial-silverstripe-secure-assets
 ```
 
 Then make an `_ss_environment.php` file, containing at least:
