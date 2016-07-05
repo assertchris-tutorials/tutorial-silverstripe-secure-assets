@@ -1,3 +1,5 @@
+![](move.gif)
+
 To get started:
 
 ```sh
